@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rvitorelli-webimpacto.github.io/archive-ukwswe/sitemap.xml
